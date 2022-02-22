@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. The Queenes most excellent Maiestie being giuen to vnderstand, that diuers, as well souldiers as mariners employed in the late Portingall voyage  ...</title>
+            <title>Proclamations. 1589-08-24</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21859</idno>
+            <idno type="STC">STC 8187</idno>
+            <idno type="STC">ESTC S115411</idno>
+            <idno type="EEBO-CITATION">99850630</idno>
+            <idno type="PROQUEST">99850630</idno>
+            <idno type="VID">15845</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15845)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. The Queenes most excellent Maiestie being giuen to vnderstand, that diuers, as well souldiers as mariners employed in the late Portingall voyage  ...</title>
+                  <title>Proclamations. 1589-08-24</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1589.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For orderly dispersal and payment of the members of Norris and Drake's fleet.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Impressment --  Early works to 1800.</term>
+               <term>Lisbon Expedition, 1589 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Tudors, 1485-1603 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15845:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes moſt excellent Maieſtie being giuen to vnderſtand, that diuers, aſwell Souldiours as Mariners employed in the late Portingall voyage, whereunto many Souldiours voluntarilie of<g ref="char:EOLhyphen"/>fered themſelues, to her highneſſe great contentment, and their owne commendation for their wil<g ref="char:EOLhyphen"/>lingneſſe to put themſelues into that ſeruice, but yet haue ſince their returne in moſt vndutifull ſort aſſembled themſelues in diſordered troupes, contrarie to the Lawes and Statutes of this Realme, &amp; haue alſo preſumed to repaire to her Maieſties Court, contrary to a former Proclamation made in reſpect of the infection of the parts and ſhips from whence they came: Doth therefore ſtraightlie charge and command aſwell Souldiours as Mariners, vpon paine of impriſonment and ſuch fur<g ref="char:EOLhyphen"/>ther puniſhment as ſhalbe thought meete to be inflicted vpon ſuch diſordered &amp; vndutiful ſubiects, <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ebeare from henceforth to make any ſuch diſordered aſſemblies. And yet to the end the ſaid parties employed in the ſaid voyage, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> receiue reaſonable contentment after the examining what ſummes of money are due to ſo many of them as haue haue beene im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed either by vertue of her Maieſties Commiſſion, or by Letters from the Lords and others of her highneſſe Priuie councell, it <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beene alreadie ordered: Firſt for the Mariners, that they ſhould repaire vnto the officers of the Admeraltie, and there deliuer <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them their names, the time, and by whome they were impreſted, what they haue receiued, and what is due vnto them: for <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it both was and is ment immediatly vpon the repaire of Sir Iohn Norris &amp; Sir Francis Drake the late Generals, who beſt <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what hath beene payed to them, and what is due to the ſaid Mariners, that there ſhould be ſome preſent order taken for their <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>nable ſatiſfaction. And for the Souldiours, the ſame hauing beene publiquely notified vnto them by the Lord Maior of Lon<g ref="char:EOLhyphen"/>don by order from her Maieſties Councel, that they ſhould repaire into thoſe Counties where they were impreſted, and other their milling places, and there to deliuer vnto the Iuſtices or any other officers by whome they were impreſted, their names vnder <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they haue ſerued, what ſummes of money they haue receiued by the way of impreſt, and what is due vnto them for the time <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their ſeruice, to the end the ſaid Iuſtices might giue notice thereof vnto the Lieutenants of the ſaid Counties where the ſaid <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ours were impreſted, whereby a true certificate might be made to her Maieſtie or her Councell from the ſaid Lieutenants, <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h of the numbers that haue beene imployed, &amp; what was demanded as due vnto them, which courſe of proceeding, by order from <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lords and other of the Priuie councell, was publiquely notified to the ſaid Souldiours by the ſaid Lord Maior, for that her Maieſties princely and moſt gracious diſpoſition, both was and is, that ſuch, aſwell Mariners as Souldious that were impreſted <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vertue of her highneſſe Commiſſion, or by vertue of Letters directed by the Lords and other of her Maieſties Priuie councell <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lieutenants of the Shires, ſhould receiue reaſonable contentment.</p>
+            <p>And therefore her Highnes pleaſure is, that aſwell Marryners as Souldiours ſhall ſeeke ſatiſfaction, for ſomuch as ſhalbe found <gap reason="illegible: in gutter" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> due vnto them, in ſuch ſort as is aboue ſpecified, and in no other maner. And for others that did offer their ſeruice, and haue <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as voluntary men in the ſayd voyage, and were not impreſted nor commaunded to ſerue in ſuch ſort as is aboue mentioned: <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Maieſty commaundeth them vpon payne of impriſonment and ſuch further puniſhment as ſhalbe thought meete to bee in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ted vpon them, to repayre out of hande to the countreyes and places where they were laſt abyding, and there to imploy them<g ref="char:EOLhyphen"/>elves in duetifull ſort, according to their ſeuerall vocations and callings. And yet neuertheleſſe, concerning ſuch ſummes of mo<g ref="char:EOLhyphen"/>ney as a great number of the ſayd Souldiours impreſted by Commiſſion, (though it be affirmed that diuerſe haue beene ouerpayd) <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>tend to be due vnto them: yet there ſhall be due examination taken, what they haue receyued by impreſts, victualles, clothing <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d armes. And for ſuch ſummes as ſhall be found due the impreſted Souldiours, order ſahlbe taken to pay them their due <gap reason="illegible: in gutter" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>t of the goods ſeaſed) in the Countreyes from whence their certificate ſhalbe ſent.</p>
+            <p>Wherefore for the due execution of this preſent Proclamation, Her Maieſtie ſtraightly chargeth and commaundeth all Lieute<g ref="char:EOLhyphen"/>nants, Deputie Lieutenants, Maiors, Sheriffes, and other inferior Officers, to giue preſent order for the placing of ſtanding <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>hes, of ſufficient and able men in ſuch Thorowfaires and places, as by them ſhall be thought conuenient, for the intercepting <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d apprehenſion of ſuch as ſhall be founde to commit any thing in contempt of this preſent Proclamation.</p>
+            <closer>
+               <dateline>Dated at our Man<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Otelands, <date>the xxiiii, day of Auguſt, in the xxxi. yeere of our raigne. 1589.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of Chriſtopher Barker, Printer to the Queenes moſt excellent <hi>Maieſtie.</hi> Anno 1589.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
